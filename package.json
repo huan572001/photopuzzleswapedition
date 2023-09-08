@@ -1,0 +1,11 @@
+{
+  "name": "photoPuzzLesWapEditio",
+  "uuid": "4c39b174-039b-408a-80de-043d3695b3cc",
+  "creator": {
+    "version": "3.7.2"
+  },
+  "dependencies": {
+    "@onechaintech/gamesdk-beta": "^0.0.13",
+    "@onechaintech/gamesdk-dev": "^0.0.12"
+  }
+}
